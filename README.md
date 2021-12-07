@@ -1,6 +1,17 @@
 # pyqt-show-button-when-hover-widget
 PyQt show the button to the bottom right of the widget when mouse cursor hover
 
+## Overview
+This package is for the one who needs tutorial or example. Examine the code whatever you want.
+
+Base widget is QGraphicsView. 
+
+When mouse cursor hover on the widget addBtn(plus icon, QPushButton type) and delBtn(minus icon) will be appeared.
+
+You can show image on the QGraphicsView by clicking addBtn and select the image file.
+
+If image file is shown, you can delete it by clicking delBtn.
+
 ## Requirements
 PyQt5 >= 5.8
 
@@ -23,4 +34,8 @@ if __name__ == "__main__":
 ```
 
 ## Result
-I will upload this after 4 hours or some sort. Kinda busy :(
+
+https://user-images.githubusercontent.com/55078043/144965498-637807de-4dce-423a-a509-d26ce1c39bcc.mp4
+
+
+
