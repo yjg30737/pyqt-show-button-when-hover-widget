@@ -1,6 +1,8 @@
 # pyqt-show-button-when-hover-widget
 PyQt show the button to the bottom right of the widget when mouse cursor hover
 
+This is for example/tutorial.
+
 ## Overview
 <b>This package is for the one who needs tutorial or example. Examine the code whatever you want.</b>
 
